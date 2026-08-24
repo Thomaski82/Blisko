@@ -33,3 +33,6 @@ Projekt nie zawiera zależności ani odwołań do Flexo.
 Darmowy wpis podstawowy oraz abonamenty Partner i Pro dla placówek. Portal nie
 pobiera prowizji od przyjęcia seniora; płatna promocja jest zawsze oznaczona i
 nie wpływa na weryfikację ani organiczne dopasowanie.
+
+Strefa B2B jest oddzielona od wyszukiwarki dla rodzin: `partners.html` zawiera
+ofertę, plany i rejestrację, a `dashboard.html` przedstawia panel placówki.
