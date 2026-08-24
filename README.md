@@ -27,3 +27,9 @@ Następnie przejdź na `http://localhost:8080`.
 - `app.js` — interakcje
 
 Projekt nie zawiera zależności ani odwołań do Flexo.
+
+## Model biznesowy
+
+Darmowy wpis podstawowy oraz abonamenty Partner i Pro dla placówek. Portal nie
+pobiera prowizji od przyjęcia seniora; płatna promocja jest zawsze oznaczona i
+nie wpływa na weryfikację ani organiczne dopasowanie.
