@@ -6,6 +6,9 @@ Obejmuje wyszukiwanie, filtry usług i ceny, sortowanie, dostępność, zapisane
 placówki, responsywną listę oraz schematyczną mapę Polski. Dane są demonstracyjne.
 Model danych jest przygotowany do rozszerzenia o kolejne kraje.
 
+Profil placówki (`detail.html`) zawiera galerię, pełny opis, usługi, warianty
+pokoi i cen, interaktywny kalendarz dostępności oraz formularz kontaktowy.
+
 ## Uruchomienie
 
 Nie wymaga instalowania zależności. Otwórz `index.html` w przeglądarce albo uruchom lokalny serwer HTTP, np.:
