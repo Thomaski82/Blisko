@@ -1,6 +1,10 @@
 # Blisko
 
-Niezależna, responsywna aplikacja startowa utworzona jako osobny projekt.
+Niezależny prototyp ogólnopolskiej wyszukiwarki placówek opieki dla seniorów.
+
+Obejmuje wyszukiwanie, filtry usług i ceny, sortowanie, dostępność, zapisane
+placówki, responsywną listę oraz schematyczną mapę Polski. Dane są demonstracyjne.
+Model danych jest przygotowany do rozszerzenia o kolejne kraje.
 
 ## Uruchomienie
 
