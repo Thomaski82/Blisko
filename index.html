@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Blisko — osobna aplikacja, gotowa do dalszego rozwoju." />
+    <title>Blisko</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <nav class="nav" aria-label="Główna nawigacja">
+        <a class="brand" href="#" aria-label="Blisko — strona główna">
+          <span class="brand-mark" aria-hidden="true">B</span>
+          <span>Blisko</span>
+        </a>
+        <button class="nav-action" type="button" data-scroll-to="start">Rozpocznij</button>
+      </nav>
+
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow">NOWY, NIEZALEŻNY PROJEKT</p>
+          <h1 id="hero-title">To, co ważne,<br /><em>jest blisko.</em></h1>
+          <p class="lead">
+            Blisko to świeża przestrzeń zaprojektowana od podstaw — prosta,
+            spokojna i gotowa rosnąć razem z Twoim pomysłem.
+          </p>
+          <button class="primary" type="button" data-scroll-to="start">
+            Zobacz, co dalej <span aria-hidden="true">↘</span>
+          </button>
+        </div>
+
+        <div class="visual" aria-hidden="true">
+          <div class="orb orb-large"></div>
+          <div class="orb orb-small"></div>
+          <div class="connection"></div>
+          <span class="visual-label label-one">pomysł</span>
+          <span class="visual-label label-two">relacja</span>
+          <span class="visual-label label-three">bliskość</span>
+        </div>
+      </section>
+
+      <section class="next" id="start" aria-labelledby="next-title">
+        <p class="eyebrow">PUNKT STARTOWY</p>
+        <h2 id="next-title">Osobny fundament.<br />Pełna swoboda.</h2>
+        <div class="cards">
+          <article>
+            <span>01</span>
+            <h3>Niezależnie</h3>
+            <p>Projekt ma własny katalog, kod i identyfikację.</p>
+          </article>
+          <article>
+            <span>02</span>
+            <h3>Prosto</h3>
+            <p>Minimalny stos technologiczny ułatwia szybki rozwój.</p>
+          </article>
+          <article>
+            <span>03</span>
+            <h3>Od podstaw</h3>
+            <p>Bez zależności i bez zmian w innych aplikacjach.</p>
+          </article>
+        </div>
+      </section>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>
